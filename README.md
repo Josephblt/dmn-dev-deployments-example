@@ -1,2 +1,2 @@
-# dmn-dev-deployment-example
-DMN Dev Deployment Example on BAMOE Canvas example repository.
+# dmn-dev-deployments-example
+This is a repository that hosted the file used in the Presentation DMN Dev Deployments on BAMOE Canvas.
